@@ -1,6 +1,6 @@
 # DAAD-DST-Indo-German-Joint-Research-Collaboration-
 
-#DAAD- DST Project First Work Package Description by the Interns at IIT Patna 
+# DAAD- DST Project First Work Package Description by the Interns at IIT Patna 
  
 Running the five examples of Lena project of LTE/4G namely, lena-simple.cc, lena-simple-epc.cc, lenasimple-epc-emu.cc, lena-x2-handover.cc and lena-simple-epc-backhaul.cc. 
  
@@ -18,7 +18,7 @@ Try to plot the results attained with varying number of ue, enb nodes ;
 with different simulation time ; 
 with different mobility and propagation models and different parameter configurations for points a to f first and then g to i later.  
 
-#Links to understand LTE in details:- 
+# Links to understand LTE in details:- 
 https://www.tutorialspoint.com/lte/index.htm 
 https://www.nsnam.org/docs/models/html/lte-user.html#configuration-of-lte-model-parameters 
 https://www.nsnam.org/doxygen/lena-x2-handover_8cc.html 
